@@ -1,0 +1,7 @@
+﻿  Curba_spline1.c
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(32,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(33,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(35,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(39,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(80,21): warning C4113: 'void (__stdcall *)()' differs in parameter lists from 'AUXMAINPROC'
+  application2_OpenGL.vcxproj -> D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\Debug\application2_OpenGL.exe
