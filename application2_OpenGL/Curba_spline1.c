@@ -21,11 +21,11 @@ void myinit()
 
 
 void CALLBACK display()
-{	// 4 puncte de control
+{	// 10 puncte de control
 	GLfloat ctlpoints[10][3] = {
-		{.75, -.5, 0.0},
+		{.55, -.5, 0.0},
 		{-.5, -.75, 0.0},
-		{-0.75, 0.0, 0.0},
+		{-0.40, 0.0, 0.0},
 		{-.5, .5, 0.0},
 		{0.0, .75, 0.0},
 		{.5, .5, 0.0},
@@ -35,7 +35,7 @@ void CALLBACK display()
 		{-0.90,0.0,0.0}
 	};
 
-	// 8 noduri
+	// 14 noduri
 	GLfloat knots[14] = { 0.0, 0.0, 0.0, 0.0,.10, .20, .40, .60, .80,.90, 1, 1, 1, 1};
 	//GLfloat knots[8] = {0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0};
 	glClear(GL_COLOR_BUFFER_BIT);

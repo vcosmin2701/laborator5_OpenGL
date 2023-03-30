@@ -1,4 +1,6 @@
 ﻿  Curba_spline1.c
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(26,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(28,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
 D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(32,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
 D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(33,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
 D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application2_OpenGL\Curba_spline1.c(35,3): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
