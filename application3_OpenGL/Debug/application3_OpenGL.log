@@ -1,4 +1,4 @@
 ﻿  Solid_Bezier.c
-D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application3_OpenGL\Solid_Bezier.c(41,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application3_OpenGL\Solid_Bezier.c(43,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application3_OpenGL\Solid_Bezier.c(37,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\application3_OpenGL\Solid_Bezier.c(39,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
   application3_OpenGL.vcxproj -> D:\CALCULATOARE_SIBIU\CALCULATOARE_AN2\CALCULATOARE_AN2_SEM2\GRAFICA\laborator5_OpenGL\Debug\application3_OpenGL.exe
